@@ -135,11 +135,6 @@
    "Trigger": "failure",
    "time-stamp": "03/03/2021 11:07:00"
  },
- {
-  "UUID": 9999999999,
-  "Trigger": "start",
-  "time-stamp": "03/03/2021 11:07:00"
-},
 {
   "UUID": 9999999999,
   "Trigger": "mariama",
