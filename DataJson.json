@@ -126,11 +126,6 @@
    "time-stamp": "03/03/2021 11:03:00"
  },
  {
-  "UUID": 888888,
-  "Trigger": "yellow",
-  "time-stamp": "27/03/2021 18:06:00"
-},
- {
    "UUID": 777777,
    "Trigger": "failure",
    "time-stamp": "03/03/2021 11:05:00"
@@ -140,6 +135,26 @@
    "Trigger": "failure",
    "time-stamp": "03/03/2021 11:07:00"
  },
+ {
+  "UUID": 9999999999,
+  "Trigger": "start",
+  "time-stamp": "03/03/2021 11:07:00"
+},
+{
+  "UUID": 9999999999,
+  "Trigger": "mariama",
+  "time-stamp": "03/03/2021 11:07:00"
+},
+{
+  "UUID": 9999999999,
+  "Trigger": "ida",
+  "time-stamp": "03/03/2021 11:07:00"
+},
+{
+  "UUID": 9999999999,
+  "Trigger": "success",
+  "time-stamp": "03/03/2021 11:07:00"
+},
  {
    "UUID": 999999,
    "Trigger": "success",
