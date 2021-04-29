@@ -141,26 +141,6 @@
    "time-stamp": "03/03/2021 11:07:00"
  },
  {
-  "UUID": 9999999,
-  "Trigger": "red",
-  "time-stamp": "03/03/2021 11:07:00"
-  },
-  {
-  "UUID": 9999999,
-  "Trigger": "Ida",
-  "time-stamp": "03/03/2021 11:07:00"
-  },
-  {
-  "UUID": 9999999,
-  "Trigger": "blue",
-  "time-stamp": "03/03/2021 11:07:00"
-  },
-  {
-  "UUID": 9999999,
-  "Trigger": "success",
-  "time-stamp": "03/03/2021 11:07:00"
-  },  
- {
    "UUID": 888888,
    "Trigger": "success",
    "time-stamp": "03/03/2021 11:08:00"
