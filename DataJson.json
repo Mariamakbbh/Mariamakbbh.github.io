@@ -142,12 +142,12 @@
  },
  {
   "UUID": 9999999,
-  "Trigger": "Mark",
+  "Trigger": "red",
   "time-stamp": "03/03/2021 11:07:00"
   },
   {
   "UUID": 9999999,
-  "Trigger": "red",
+  "Trigger": "Ida",
   "time-stamp": "03/03/2021 11:07:00"
   },
   {
