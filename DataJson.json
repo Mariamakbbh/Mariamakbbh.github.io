@@ -1,149 +1,204 @@
 { "users":
-[
- {
-   "UUID": 100000,
-   "Trigger": "red",
-   "time-stamp": "03/03/2021 10:30:00"
- },
- {
-   "UUID": 111111,
-   "Trigger": "yellow",
-   "time-stamp": "03/03/2021 10:33:00"
- },
- {
-   "UUID": 222222,
-   "Trigger": "yellow",
-   "time-stamp": "03/03/2021 10:34:00"
- },
- {
-   "UUID": 333333,
-   "Trigger": "green",
-   "time-stamp": "03/03/2021 10:35:00"
- },
- {
-   "UUID": 100000,
-   "Trigger": "yellow",
-   "time-stamp": "03/03/2021 10:37:00"
- },
- {
-   "UUID": 111111,
-   "Trigger": "blue",
-   "time-stamp": "03/03/2021 10:39:00"
- },
- {
-   "UUID": 222222,
-   "Trigger": "green",
-   "time-stamp": "03/03/2021 10:39:00"
- },
- {
-   "UUID": 444444,
-   "Trigger": "blue",
-   "time-stamp": "03/03/2021 10:42:00"
- },
- {
-   "UUID": 555555,
-   "Trigger": "red",
-   "time-stamp": "03/03/2021 10:44:00"
- },
- {
-   "UUID": 555555,
-   "Trigger": "failure",
-   "time-stamp": "03/03/2021 10:45:00"
- },
- {
-   "UUID": 111111,
-   "Trigger": "failure",
-   "time-stamp": "03/03/2021 10:46:00"
- },
- {
-   "UUID": 222222,
-   "Trigger": "red",
-   "time-stamp": "03/03/2021 10:46:00"
- },
- {
-   "UUID": 333333,
-   "Trigger": "blue",
-   "time-stamp": "03/03/2021 10:47:00"
- },
- {
-   "UUID": 666666,
-   "Trigger": "yellow",
-   "time-stamp": "03/03/2021 10:51:00"
- },
- {
-   "UUID": 777777,
-   "Trigger": "green",
-   "time-stamp": "03/03/2021 10:54:00"
- },
- {
-   "UUID": 222222,
-   "Trigger": "success",
-   "time-stamp": "03/03/2021 10:55:00"
- },
- {
-   "UUID": 100000,
-   "Trigger": "failure",
-   "time-stamp": "03/03/2021 10:57:00"
- },
- {
-   "UUID": 888888,
-   "Trigger": "green",
-   "time-stamp": "03/03/2021 10:57:00"
- },
- {
-   "UUID": 666666,
-   "Trigger": "green",
-   "time-stamp": "03/03/2021 10:58:00"
- },
- {
-   "UUID": 333333,
-   "Trigger": "success",
-   "time-stamp": "03/03/2021 10:59:00"
- },
- {
-   "UUID": 777777,
-   "Trigger": "red",
-   "time-stamp": "03/03/2021 11:00:00"
- },
- {
-   "UUID": 999999,
-   "Trigger": "red",
-   "time-stamp": "03/03/2021 11:00:00"
- },
- {
-   "UUID": 444444,
-   "Trigger": "success",
-   "time-stamp": "03/03/2021 11:01:00"
- },
- {
-   "UUID": 666666,
-   "Trigger": "red",
-   "time-stamp": "03/03/2021 11:03:00"
- },
- {
-   "UUID": 888888,
-   "Trigger": "blue",
-   "time-stamp": "03/03/2021 11:03:00"
- },
- {
-   "UUID": 777777,
-   "Trigger": "failure",
-   "time-stamp": "03/03/2021 11:05:00"
- },
- {
-   "UUID": 666666,
-   "Trigger": "failure",
-   "time-stamp": "03/03/2021 11:07:00"
- },
- {
-   "UUID": 999999,
-   "Trigger": "success",
-   "time-stamp": "03/03/2021 11:07:00"
- },
- {
-   "UUID": 888888,
-   "Trigger": "success",
-   "time-stamp": "03/03/2021 11:08:00"
- }
-]
+  [
+    {
+      "UUID": 100000,
+      "Trigger": "Video Player",
+      "time-stamp": 44258.4375
+    },
+    {
+      "UUID": 111111,
+      "Trigger": "Home",
+      "time-stamp": 44258.43958
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "Home",
+      "time-stamp": 44258.44028
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "Home",
+      "time-stamp": 44258.44097
+    },
+    {
+      "UUID": 100000,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.44236
+    },
+    {
+      "UUID": 111111,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.44375
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "Search",
+      "time-stamp": 44258.44375
+    },
+    {
+      "UUID": 444444,
+      "Trigger": "Home",
+      "time-stamp": 44258.44583
+    },
+    {
+      "UUID": 555555,
+      "Trigger": "Episode Page",
+      "time-stamp": 44258.44722
+    },
+    {
+      "UUID": 555555,
+      "Trigger": "Video Player",
+      "time-stamp": 44258.44792
+    },
+    {
+      "UUID": 111111,
+      "Trigger": "No Subscription",
+      "time-stamp": 44258.44861
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "Series List Page",
+      "time-stamp": 44258.44861
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "Series Detail Page",
+      "time-stamp": 44258.44931
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "Series List Page",
+      "time-stamp": 44258.45208
+    },
+    {
+      "UUID": 555555,
+      "Trigger": "No Subscription",
+      "time-stamp": 44258.45347
+    },
+    {
+      "UUID": 777777,
+      "Trigger": "Series List Page",
+      "time-stamp": 44258.45417
+    },
+    {
+      "UUID": 444444,
+      "Trigger": "Search",
+      "time-stamp": 44258.45417
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "Episode Page",
+      "time-stamp": 44258.45486
+    },
+    {
+      "UUID": 100000,
+      "Trigger": "No Subscription",
+      "time-stamp": 44258.45625
+    },
+    {
+      "UUID": 888888,
+      "Trigger": "Series List Page",
+      "time-stamp": 44258.45625
+    },
+    {
+      "UUID": 444444,
+      "Trigger": "Episode Page",
+      "time-stamp": 44258.45625
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "Series Detail Page",
+      "time-stamp": 44258.45694
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.45694
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "Episode Page",
+      "time-stamp": 44258.45764
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "Episode Page",
+      "time-stamp": 44258.45764
+    },
+    {
+      "UUID": 777777,
+      "Trigger": "No Subscription",
+      "time-stamp": 44258.45833
+    },
+    {
+      "UUID": 444444,
+      "Trigger": "Customer Support",
+      "time-stamp": 44258.45833
+    },
+    {
+      "UUID": 999999,
+      "Trigger": "Series List Page",
+      "time-stamp": 44258.45833
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "Video Player",
+      "time-stamp": 44258.45833
+    },
+    {
+      "UUID": 444444,
+      "Trigger": "No Subscription",
+      "time-stamp": 44258.45903
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.45903
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.45972
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "Subscription",
+      "time-stamp": 44258.45972
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "Customer Support",
+      "time-stamp": 44258.46042
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "Subscription",
+      "time-stamp": 44258.46042
+    },
+    {
+      "UUID": 888888,
+      "Trigger": "Customer support",
+      "time-stamp": 44258.46042
+    },
+    {
+      "UUID": 999999,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.46181
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "Subscription",
+      "time-stamp": 44258.46319
+    },
+    {
+      "UUID": 999999,
+      "Trigger": "Subscription",
+      "time-stamp": 44258.46319
+    },
+    {
+      "UUID": 888888,
+      "Trigger": "Subscription",
+      "time-stamp": 44258.46389
+    }
+   ]
 }
