@@ -52,7 +52,7 @@
     },
     {
       "UUID": 111111,
-      "Trigger": "No Subscription",
+      "Trigger": "failure",
       "time-stamp": 44258.44861
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "UUID": 555555,
-      "Trigger": "No Subscription",
+      "Trigger": "failure",
       "time-stamp": 44258.45347
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "UUID": 100000,
-      "Trigger": "No Subscription",
+      "Trigger": "failure",
       "time-stamp": 44258.45625
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "UUID": 777777,
-      "Trigger": "No Subscription",
+      "Trigger": "failure",
       "time-stamp": 44258.45833
     },
     {
@@ -147,7 +147,7 @@
     },
     {
       "UUID": 444444,
-      "Trigger": "No Subscription",
+      "Trigger": "failure",
       "time-stamp": 44258.45903
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "UUID": 222222,
-      "Trigger": "Subscription",
+      "Trigger": "success",
       "time-stamp": 44258.45972
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "UUID": 333333,
-      "Trigger": "Subscription",
+      "Trigger": "success",
       "time-stamp": 44258.46042
     },
     {
@@ -187,17 +187,17 @@
     },
     {
       "UUID": 666666,
-      "Trigger": "Subscription",
+      "Trigger": "success",
       "time-stamp": 44258.46319
     },
     {
       "UUID": 999999,
-      "Trigger": "Subscription",
+      "Trigger": "success",
       "time-stamp": 44258.46319
     },
     {
       "UUID": 888888,
-      "Trigger": "Subscription",
+      "Trigger": "success",
       "time-stamp": 44258.46389
     }
    ]
