@@ -1,4 +1,5 @@
 { "users":
+<<<<<<< HEAD
   [
     {
       "UUID": 100000,
@@ -201,4 +202,158 @@
       "time-stamp": 44258.46389
     }
    ]
+=======
+[
+ {
+   "UUID": 100000,
+   "Trigger": "red",
+   "time-stamp": "03/03/2021 10:30:00"
+ },
+ {
+   "UUID": 111111,
+   "Trigger": "yellow",
+   "time-stamp": "03/03/2021 10:33:00"
+ },
+ {
+   "UUID": 222222,
+   "Trigger": "yellow",
+   "time-stamp": "03/03/2021 10:34:00"
+ },
+ {
+   "UUID": 333333,
+   "Trigger": "green",
+   "time-stamp": "03/03/2021 10:35:00"
+ },
+ {
+   "UUID": 100000,
+   "Trigger": "yellow",
+   "time-stamp": "03/03/2021 10:37:00"
+ },
+ {
+   "UUID": 111111,
+   "Trigger": "blue",
+   "time-stamp": "03/03/2021 10:39:00"
+ },
+ {
+   "UUID": 222222,
+   "Trigger": "green",
+   "time-stamp": "03/03/2021 10:39:00"
+ },
+ {
+   "UUID": 444444,
+   "Trigger": "blue",
+   "time-stamp": "03/03/2021 10:42:00"
+ },
+ {
+   "UUID": 555555,
+   "Trigger": "red",
+   "time-stamp": "03/03/2021 10:44:00"
+ },
+ {
+   "UUID": 555555,
+   "Trigger": "failure",
+   "time-stamp": "03/03/2021 10:45:00"
+ },
+ {
+   "UUID": 111111,
+   "Trigger": "failure",
+   "time-stamp": "03/03/2021 10:46:00"
+ },
+ {
+   "UUID": 222222,
+   "Trigger": "red",
+   "time-stamp": "03/03/2021 10:46:00"
+ },
+ {
+   "UUID": 333333,
+   "Trigger": "blue",
+   "time-stamp": "03/03/2021 10:47:00"
+ },
+ {
+   "UUID": 666666,
+   "Trigger": "yellow",
+   "time-stamp": "03/03/2021 10:51:00"
+ },
+ {
+   "UUID": 777777,
+   "Trigger": "green",
+   "time-stamp": "03/03/2021 10:54:00"
+ },
+ {
+   "UUID": 222222,
+   "Trigger": "success",
+   "time-stamp": "03/03/2021 10:55:00"
+ },
+ {
+   "UUID": 100000,
+   "Trigger": "failure",
+   "time-stamp": "03/03/2021 10:57:00"
+ },
+ {
+   "UUID": 888888,
+   "Trigger": "green",
+   "time-stamp": "03/03/2021 10:57:00"
+ },
+ {
+   "UUID": 666666,
+   "Trigger": "green",
+   "time-stamp": "03/03/2021 10:58:00"
+ },
+ {
+   "UUID": 333333,
+   "Trigger": "success",
+   "time-stamp": "03/03/2021 10:59:00"
+ },
+ {
+   "UUID": 777777,
+   "Trigger": "red",
+   "time-stamp": "03/03/2021 11:00:00"
+ },
+ {
+   "UUID": 999999,
+   "Trigger": "red",
+   "time-stamp": "03/03/2021 11:00:00"
+ },
+ {
+   "UUID": 444444,
+   "Trigger": "success",
+   "time-stamp": "03/03/2021 11:01:00"
+ },
+ {
+   "UUID": 666666,
+   "Trigger": "red",
+   "time-stamp": "03/03/2021 11:03:00"
+ },
+ {
+   "UUID": 888888,
+   "Trigger": "blue",
+   "time-stamp": "03/03/2021 11:03:00"
+ },
+ {
+  "UUID": 888888,
+  "Trigger": "red",
+  "time-stamp": "27/03/2021 11:03:00"
+},
+ {
+   "UUID": 777777,
+   "Trigger": "failure",
+   "time-stamp": "03/03/2021 11:05:00"
+ },
+ {
+   "UUID": 666666,
+   "Trigger": "failure",
+   "time-stamp": "03/03/2021 11:07:00"
+ },
+ {
+   "UUID": 999999,
+   "Trigger": "success",
+   "time-stamp": "03/03/2021 11:07:00"
+ },
+ {
+   "UUID": 888888,
+   "Trigger": "success",
+   "time-stamp": "03/03/2021 11:08:00"
+ }
+]
+>>>>>>> parent of 8969ca6 (original)
 }
