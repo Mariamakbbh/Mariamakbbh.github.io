@@ -1,4 +1,5 @@
 { "users":
+<<<<<<< HEAD
 [
  {
    "UUID": 100000,
@@ -152,3 +153,208 @@
  }
 ]
 }
+=======
+  [
+    {
+      "UUID": 100000,
+      "Trigger": "Video Player",
+      "time-stamp": 44258.4375
+    },
+    {
+      "UUID": 111111,
+      "Trigger": "Home",
+      "time-stamp": 44258.43958
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "Home",
+      "time-stamp": 44258.44028
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "Home",
+      "time-stamp": 44258.44097
+    },
+    {
+      "UUID": 100000,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.44236
+    },
+    {
+      "UUID": 111111,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.44375
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "Search",
+      "time-stamp": 44258.44375
+    },
+    {
+      "UUID": 444444,
+      "Trigger": "Home",
+      "time-stamp": 44258.44583
+    },
+    {
+      "UUID": 555555,
+      "Trigger": "Episode Page",
+      "time-stamp": 44258.44722
+    },
+    {
+      "UUID": 555555,
+      "Trigger": "Video Player",
+      "time-stamp": 44258.44792
+    },
+    {
+      "UUID": 111111,
+      "Trigger": "failure",
+      "time-stamp": 44258.44861
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "Series List Page",
+      "time-stamp": 44258.44861
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "Series Detail Page",
+      "time-stamp": 44258.44931
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "Series List Page",
+      "time-stamp": 44258.45208
+    },
+    {
+      "UUID": 555555,
+      "Trigger": "failure",
+      "time-stamp": 44258.45347
+    },
+    {
+      "UUID": 777777,
+      "Trigger": "Series List Page",
+      "time-stamp": 44258.45417
+    },
+    {
+      "UUID": 444444,
+      "Trigger": "Search",
+      "time-stamp": 44258.45417
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "Episode Page",
+      "time-stamp": 44258.45486
+    },
+    {
+      "UUID": 100000,
+      "Trigger": "failure",
+      "time-stamp": 44258.45625
+    },
+    {
+      "UUID": 888888,
+      "Trigger": "Series List Page",
+      "time-stamp": 44258.45625
+    },
+    {
+      "UUID": 444444,
+      "Trigger": "Episode Page",
+      "time-stamp": 44258.45625
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "Series Detail Page",
+      "time-stamp": 44258.45694
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.45694
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "Episode Page",
+      "time-stamp": 44258.45764
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "Episode Page",
+      "time-stamp": 44258.45764
+    },
+    {
+      "UUID": 777777,
+      "Trigger": "failure",
+      "time-stamp": 44258.45833
+    },
+    {
+      "UUID": 444444,
+      "Trigger": "Customer Support",
+      "time-stamp": 44258.45833
+    },
+    {
+      "UUID": 999999,
+      "Trigger": "Series List Page",
+      "time-stamp": 44258.45833
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "Video Player",
+      "time-stamp": 44258.45833
+    },
+    {
+      "UUID": 444444,
+      "Trigger": "failure",
+      "time-stamp": 44258.45903
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.45903
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.45972
+    },
+    {
+      "UUID": 222222,
+      "Trigger": "success",
+      "time-stamp": 44258.45972
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "Customer Support",
+      "time-stamp": 44258.46042
+    },
+    {
+      "UUID": 333333,
+      "Trigger": "success",
+      "time-stamp": 44258.46042
+    },
+    {
+      "UUID": 888888,
+      "Trigger": "Customer support",
+      "time-stamp": 44258.46042
+    },
+    {
+      "UUID": 999999,
+      "Trigger": "Subscription Page",
+      "time-stamp": 44258.46181
+    },
+    {
+      "UUID": 666666,
+      "Trigger": "success",
+      "time-stamp": 44258.46319
+    },
+    {
+      "UUID": 999999,
+      "Trigger": "success",
+      "time-stamp": 44258.46319
+    },
+    {
+      "UUID": 888888,
+      "Trigger": "success",
+      "time-stamp": 44258.46389
+    }
+   ]
+}
+>>>>>>> parent of 3727190 (Capitals)
